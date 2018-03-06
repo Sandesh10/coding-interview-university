@@ -1,5 +1,5 @@
-[comment]: <> (@seshuen)
-[comment]: <> (Tracking my personal progress with coding interview university syllabus)
+<!-- @seshuen) -->
+<!-- Tracking my personal progress with coding interview university syllabus -->
 
 ## Interview Process & General Interview Prep
 
